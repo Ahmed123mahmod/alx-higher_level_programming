@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 for i in (chr(i) for i in range(97, 123)):
-        print(i)
+        print(i, end = "")
